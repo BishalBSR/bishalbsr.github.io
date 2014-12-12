@@ -1,10 +1,10 @@
 body {
-	font-size: 25px;
-	color: #00665e;
-    background-color: #ffcf73;
+	font-size: 20px;
+	color: red;
+    background-color: black;
 }
 
 p {
-	color: #3515b0;
-    background-color: #5dcec6;
+	color: black;
+    background-color: blue;
 }
