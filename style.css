@@ -2,6 +2,7 @@ body {
 	font-size: 20px;
 	color: red;
     background-color: black;
+	background:  white url(images/aventador_roadster.jpg) no-repeat top right;
 }
 
 p {
