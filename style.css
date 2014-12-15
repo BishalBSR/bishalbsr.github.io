@@ -1,10 +1,43 @@
 body {
 	font-size: 20px;
-	color: red;
-    background-color: black;
-	background:  white url(images/aventador_roadster.jpg) repeat;
-
+	font-family: "Comic Sans MS", serif;
+	color: #FFCC00;
+	width: 58%; 
+	background:  white url(images/lamborghini_logo_2.jpg) repeat;
+}
+	
 p {
-	color: black;
-    background-color: blue;
+	color: #FFCC00;
+	font-size: 1em;
+}
+
+h1 {
+	font-family: "ALGERIAN", serif;
+	text-align: center;
+	color: #FF9900;
+	font-size: 1.5em;
+	background: white url(images/background.jpg) repeat;
+	padding: 20px;
+}
+
+h2 {
+	font-family: "Lucida Handwriting", serif;
+	text-align: center;
+	color: #C0C0C0;
+	font-size: 1.25em;
+	background: white url(images/background.jpg) repeat;
+	margin-right: 45%;
+	padding: 10px;
+}
+
+img {
+	float: right;
+	clear: both;
+	border: solid;
+	color: #C0C0C0;
+}
+
+.list {
+	color: #888888;
+	font-size: 1.125em;
 }
