@@ -18,8 +18,8 @@ h1 {
 	font-family: "ALGERIAN", serif;
 	text-align: center;
 	font-size: 1.5em;
+	color: #FF9900;
 	background: white url(images/titles_background.jpg) repeat;
-	/* margin-right: 48%; */
 	padding: 20px;
 }
 
@@ -32,6 +32,7 @@ h2 {
 	font-family: "Lucida Handwriting", serif;
 	text-align: center;
 	font-size: 1.25em;
+	color: #C0C0C0;
 	background: white url(images/titles_background.jpg) repeat;
 	padding: 10px;
 }
@@ -48,13 +49,6 @@ img {
 	border: 4px solid;
 	color: #C0C0C0;
 }
-
-/*
-.heading_images {
-	float: right;
-	clear: both;
-}
-*/
 
 #headquarters {
 	margin-left: 75px;
